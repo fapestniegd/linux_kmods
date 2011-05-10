@@ -4,3 +4,6 @@ force_panic.mod.o
 force_panic.o
 modules.order
 Module.symvers
+.force_panic.ko.cmd
+.force_panic.mod.o.cmd
+.force_panic.o.cmd
